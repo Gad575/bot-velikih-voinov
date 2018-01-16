@@ -1,0 +1,12 @@
+{
+  "name": "Бот Великих Воинов",
+  "description": "Бот Великих Воинов",
+  "version": "0.0.3 Alpha",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0"
+  }
+}
